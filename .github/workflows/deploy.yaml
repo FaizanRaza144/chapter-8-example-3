@@ -2,7 +2,7 @@ name: Deploy microservice
 
 on:
   push:
-    branches: 
+    branches:
       - main
 
 jobs:
